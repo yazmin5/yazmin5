@@ -1,4 +1,4 @@
-### Hi all, I'm Yasmin 👋
+## Hi all, I'm Yasmin 👋
 
 [![Website](https://img.shields.io/website?label=yasminlukman.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yasminlukman.netlify.app)
 
@@ -6,6 +6,12 @@
 - 📉 I’m currently learning to be a data scientist
 - 💡 I’m looking for oportunity to collaborate in data science field
 - ⚡ Fun fact: I  enjoy making  aesthetic presentation
+
+### Connect with me:
+
+[<img align="left" alt="yasminlukman.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -20,12 +26,6 @@
 
 <br />
 
-
-### Connect with me:
-
-[<img align="left" alt="yasminlukman.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 ---
 inspired by : https://github.com/codeSTACKr/codeSTACKr
 
